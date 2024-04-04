@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAFB53B-86E0-48AE-A23F-6588D72045EE}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\lenovo\\source\\repos\\consoleapp10\\consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAFB53B-86E0-48AE-A23F-6588D72045EE}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAFB53B-86E0-48AE-A23F-6588D72045EE}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\lenovo\\source\\repos\\consoleapp10\\consoleapp10\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAFB53B-86E0-48AE-A23F-6588D72045EE}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAFB53B-86E0-48AE-A23F-6588D72045EE}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\lenovo\\source\\repos\\consoleapp10\\consoleapp10\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAFB53B-86E0-48AE-A23F-6588D72045EE}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Group.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\Group.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Group.cs",
+              "RelativeToolTip": "ConsoleApp10\\Group.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAUwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:02:38.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\Student.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Student.cs",
+              "RelativeToolTip": "ConsoleApp10\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:02:22.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Program.cs",
+              "RelativeToolTip": "ConsoleApp10\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:01:42.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
